@@ -1,0 +1,1 @@
+# Parkinson-and-Alzheimer-s-Disease-Prediction-Model
